@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersrocess",
+        "uuid": 15482739,
+        "checksum": "293n0j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
